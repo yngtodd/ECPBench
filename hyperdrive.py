@@ -36,19 +36,16 @@ def objective(hparams):
     filter2 = int(hparams[1])
     filter3 = int(hparams[2])
     num_filters1 = int(hparams[3])
-    num_filters2 = int(hparams[4])
-    num_filters3 = int(hparams[5])
-    dropout = float(hparams[6])
-    w_l2 = float(hparams[7])
+    lr = int(hparams[4])
 
     #Adjust learning rate based on number of GPUs
-    optimizer = keras.optimizers.Adadelta(lr = 1.0)
+    optimizer = keras.optimizers.Adadelta(lr = lr)
     from keras import backend as K
-    K.set_session(
-	K.tf.Session(
-	config=K.tf.ConfigProto(
-	intra_op_parallelism_threads=62, 
-	inter_op_parallelism_threads=62)))
+    #K.set_session(
+	#K.tf.Session(
+	#config=K.tf.ConfigProto(
+	#intra_op_parallelism_threads=62, 
+	#inter_op_parallelism_threads=62)))
 
     cnn = keras_mt_shared_cnn.init_export_network(
         num_classes= num_classes,
@@ -56,10 +53,10 @@ def objective(hparams):
         vocab_size= len( wv_mat ),
         wv_space= wv_len,
         filter_sizes= [ filter1, filter2, filter3 ],
-        num_filters= [ num_filters1, num_filters2, num_filters3 ],
-        concat_dropout_prob = dropout,
+        num_filters= [ num_filters1, 100, 100 ],
+        concat_dropout_prob = 0.5,
         emb_l2= 0.001,
-        w_l2= w_l2,
+        w_l2= 0.01,
         optimizer= optimizer)
 
     history = cnn.fit(
@@ -69,13 +66,13 @@ def objective(hparams):
              np.array( train_y[ :, 2 ] ),
              np.array( train_y[ :, 3 ] ) ],
         batch_size= 16,
-        epochs= 3,
+        epochs= 50,
         verbose= 0,
         validation_data= validation_data
     )
 
     history.history[ 'val_loss' ] = np.mean( history.history[ 'val_loss' ] )
-    print( history.history )
+    #print( history.history )
 
     return history.history['val_loss']
 
@@ -103,7 +100,6 @@ def main():
 
     print( 'max_vocab:', max_vocab )
 
-
     np.random.seed( 0 )
     
     global wv_len
@@ -130,22 +126,19 @@ def main():
              (1, 10),
              (1, 10),
              (5, 500),
-             (5, 500),
-             (5, 500),
-             (0.0, 0.9),
-             (0.000001, 0.1)]
+             (0.00001, 0.1)]
 
-    checkpoint = load_results(args.results_dir)
+    savepoint = load_results(args.results_dir)
 
     hyperdrive(objective=objective,
                hyperparameters=space,
                results_path=args.results_dir,
                model="GP",
-               n_iterations=11,
+               n_iterations=25,
                checkpoints=True,
                verbose=True,
-               restart=checkpoint,
-               random_state=0)
+               random_state=0,
+               restart=savepoint)
     
 
 if __name__ == "__main__":

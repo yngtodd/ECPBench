@@ -1,0 +1,96 @@
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@summitdev-login1.ccs.ornl.gov>
+Subject: Job 328212: <ECPbench> in cluster <summitdev> Exited
+
+Job <ECPbench> was submitted from host <summitdev-login1> by user <yngtodd> in cluster <summitdev> at Tue Aug 14 16:14:28 2018
+Job was executed on host(s) <1*summitdev-login1>, in queue <batch>, as user <yngtodd> in cluster <summitdev> at Mon Aug 20 14:58:10 2018
+                            <20*summitdev-r0c0n12>
+                            <20*summitdev-r0c0n16>
+                            <20*summitdev-r0c0n17>
+                            <20*summitdev-r0c2n01>
+                            <20*summitdev-r0c2n04>
+                            <20*summitdev-r0c1n04>
+                            <20*summitdev-r0c1n05>
+                            <20*summitdev-r0c1n06>
+                            <20*summitdev-r0c1n07>
+                            <20*summitdev-r0c1n08>
+                            <20*summitdev-r0c1n09>
+                            <20*summitdev-r0c0n02>
+                            <20*summitdev-r0c0n03>
+                            <20*summitdev-r0c0n04>
+                            <20*summitdev-r0c0n05>
+                            <20*summitdev-r0c0n06>
+                            <20*summitdev-r0c0n08>
+                            <20*summitdev-r0c0n09>
+                            <20*summitdev-r0c2n10>
+                            <20*summitdev-r0c2n11>
+                            <20*summitdev-r0c2n12>
+                            <20*summitdev-r0c2n13>
+                            <20*summitdev-r0c2n14>
+                            <20*summitdev-r0c2n15>
+                            <20*summitdev-r0c2n16>
+                            <20*summitdev-r0c2n17>
+                            <20*summitdev-r0c1n10>
+                            <20*summitdev-r0c2n18>
+                            <20*summitdev-r0c1n11>
+                            <20*summitdev-r0c1n12>
+                            <20*summitdev-r0c1n13>
+                            <20*summitdev-r0c1n14>
+</ccs/home/yngtodd> was used as the home directory.
+</lustre/atlas/proj-shared/csc249/yngtodd/bench/ecpbench/space5> was used as the working directory.
+Started at Mon Aug 20 14:58:10 2018
+Terminated at Mon Aug 20 16:58:23 2018
+Results reported at Mon Aug 20 16:58:23 2018
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+#!/bin/bash
+#BSUB -P CSC249ADOA01 
+#BSUB -J ECPbench 
+#BSUB -o out.o%J
+#BSUB -e err.e%J
+#BSUB -W 02:00
+#BSUB -nnodes 32 
+
+# SummitDev Module
+SUMMITEDEVMODULEDIR=/lustre/atlas/proj-shared/csc264/modules
+[[ -d $SUMMITEDEVMODULEDIR/modulefiles ]] && module use $SUMMITEDEVMODULEDIR/modulefiles
+
+module purge
+module load hyperspace 
+
+export PAMI_IBV_ENABLE_OOO_AR=0
+
+cd /lustre/atlas/proj-shared/csc249/yngtodd/bench/ECPBench
+
+jsrun -n 32 -a 1 -g 4 python hyperdrive.py --results_dir results 
+
+------------------------------------------------------------
+
+TERM_RUNLIMIT: job killed after reaching LSF run time limit.
+Exited with exit code 140.
+
+Resource usage summary:
+
+    CPU time :                                   12.61 sec.
+    Max Memory :                                 89 MB
+    Average Memory :                             65.76 MB
+    Total Requested Memory :                     -
+    Delta Memory :                               -
+    Max Swap :                                   1523 MB
+    Max Processes :                              34
+    Max Threads :                                36
+    Run time :                                   7213 sec.
+    Turnaround time :                            521035 sec.
+
+The output (if any) is above this job summary.
+
+
+
+PS:
+
+Read file <err.e328212> for stderr output of this job.
+

@@ -1,0 +1,1063 @@
+/ccs/home/yngtodd/.lsbatch/1534277668.328212.shell: line 18: cd: /lustre/atlas/proj-shared/csc249/yngtodd/bench/ECPBench: No such file or directory
+Using TensorFlow backend.
+/lustre/atlas/proj-shared/csc264/modules/hyperspace/0.2/venv/lib/python3.6/site-packages/sklearn/ensemble/weight_boosting.py:29: DeprecationWarning: numpy.core.umath_tests is an internal NumPy module and should not be imported. It will be removed in a future NumPy release.
+  from numpy.core.umath_tests import inner1d
+WARNING:tensorflow:From /lustre/atlas/proj-shared/csc264/modules/deeplearning/20180814/venv/lib/python3.6/site-packages/tensorflow/python/util/deprecation.py:497: calling conv1d (from tensorflow.python.ops.nn_ops) with data_format=NHWC is deprecated and will be removed in a future version.
+Instructions for updating:
+`NHWC` for data_format is deprecated, use `NWC` instead
+Using TensorFlow backend.
+/lustre/atlas/proj-shared/csc264/modules/hyperspace/0.2/venv/lib/python3.6/site-packages/sklearn/ensemble/weight_boosting.py:29: DeprecationWarning: numpy.core.umath_tests is an internal NumPy module and should not be imported. It will be removed in a future NumPy release.
+  from numpy.core.umath_tests import inner1d
+WARNING:tensorflow:From /lustre/atlas/proj-shared/csc264/modules/deeplearning/20180814/venv/lib/python3.6/site-packages/tensorflow/python/util/deprecation.py:497: calling conv1d (from tensorflow.python.ops.nn_ops) with data_format=NHWC is deprecated and will be removed in a future version.
+Instructions for updating:
+`NHWC` for data_format is deprecated, use `NWC` instead
+Using TensorFlow backend.
+/lustre/atlas/proj-shared/csc264/modules/hyperspace/0.2/venv/lib/python3.6/site-packages/sklearn/ensemble/weight_boosting.py:29: DeprecationWarning: numpy.core.umath_tests is an internal NumPy module and should not be imported. It will be removed in a future NumPy release.
+  from numpy.core.umath_tests import inner1d
+WARNING:tensorflow:From /lustre/atlas/proj-shared/csc264/modules/deeplearning/20180814/venv/lib/python3.6/site-packages/tensorflow/python/util/deprecation.py:497: calling conv1d (from tensorflow.python.ops.nn_ops) with data_format=NHWC is deprecated and will be removed in a future version.
+Instructions for updating:
+`NHWC` for data_format is deprecated, use `NWC` instead
+Using TensorFlow backend.
+/lustre/atlas/proj-shared/csc264/modules/hyperspace/0.2/venv/lib/python3.6/site-packages/sklearn/ensemble/weight_boosting.py:29: DeprecationWarning: numpy.core.umath_tests is an internal NumPy module and should not be imported. It will be removed in a future NumPy release.
+  from numpy.core.umath_tests import inner1d
+WARNING:tensorflow:From /lustre/atlas/proj-shared/csc264/modules/deeplearning/20180814/venv/lib/python3.6/site-packages/tensorflow/python/util/deprecation.py:497: calling conv1d (from tensorflow.python.ops.nn_ops) with data_format=NHWC is deprecated and will be removed in a future version.
+Instructions for updating:
+`NHWC` for data_format is deprecated, use `NWC` instead
+Using TensorFlow backend.
+/lustre/atlas/proj-shared/csc264/modules/hyperspace/0.2/venv/lib/python3.6/site-packages/sklearn/ensemble/weight_boosting.py:29: DeprecationWarning: numpy.core.umath_tests is an internal NumPy module and should not be imported. It will be removed in a future NumPy release.
+  from numpy.core.umath_tests import inner1d
+WARNING:tensorflow:From /lustre/atlas/proj-shared/csc264/modules/deeplearning/20180814/venv/lib/python3.6/site-packages/tensorflow/python/util/deprecation.py:497: calling conv1d (from tensorflow.python.ops.nn_ops) with data_format=NHWC is deprecated and will be removed in a future version.
+Instructions for updating:
+`NHWC` for data_format is deprecated, use `NWC` instead
+Using TensorFlow backend.
+/lustre/atlas/proj-shared/csc264/modules/hyperspace/0.2/venv/lib/python3.6/site-packages/sklearn/ensemble/weight_boosting.py:29: DeprecationWarning: numpy.core.umath_tests is an internal NumPy module and should not be imported. It will be removed in a future NumPy release.
+  from numpy.core.umath_tests import inner1d
+WARNING:tensorflow:From /lustre/atlas/proj-shared/csc264/modules/deeplearning/20180814/venv/lib/python3.6/site-packages/tensorflow/python/util/deprecation.py:497: calling conv1d (from tensorflow.python.ops.nn_ops) with data_format=NHWC is deprecated and will be removed in a future version.
+Instructions for updating:
+`NHWC` for data_format is deprecated, use `NWC` instead
+Using TensorFlow backend.
+/lustre/atlas/proj-shared/csc264/modules/hyperspace/0.2/venv/lib/python3.6/site-packages/sklearn/ensemble/weight_boosting.py:29: DeprecationWarning: numpy.core.umath_tests is an internal NumPy module and should not be imported. It will be removed in a future NumPy release.
+  from numpy.core.umath_tests import inner1d
+WARNING:tensorflow:From /lustre/atlas/proj-shared/csc264/modules/deeplearning/20180814/venv/lib/python3.6/site-packages/tensorflow/python/util/deprecation.py:497: calling conv1d (from tensorflow.python.ops.nn_ops) with data_format=NHWC is deprecated and will be removed in a future version.
+Instructions for updating:
+`NHWC` for data_format is deprecated, use `NWC` instead
+Using TensorFlow backend.
+/lustre/atlas/proj-shared/csc264/modules/hyperspace/0.2/venv/lib/python3.6/site-packages/sklearn/ensemble/weight_boosting.py:29: DeprecationWarning: numpy.core.umath_tests is an internal NumPy module and should not be imported. It will be removed in a future NumPy release.
+  from numpy.core.umath_tests import inner1d
+/lustre/atlas/proj-shared/csc264/modules/hyperspace/0.2/venv/lib/python3.6/site-packages/hyperspace/space/skopt/space.py:173: UserWarning: Each hyperspace contains a single value.
+  warnings.warn("Each hyperspace contains a single value.")
+WARNING:tensorflow:From /lustre/atlas/proj-shared/csc264/modules/deeplearning/20180814/venv/lib/python3.6/site-packages/tensorflow/python/util/deprecation.py:497: calling conv1d (from tensorflow.python.ops.nn_ops) with data_format=NHWC is deprecated and will be removed in a future version.
+Instructions for updating:
+`NHWC` for data_format is deprecated, use `NWC` instead
+Using TensorFlow backend.
+/lustre/atlas/proj-shared/csc264/modules/hyperspace/0.2/venv/lib/python3.6/site-packages/sklearn/ensemble/weight_boosting.py:29: DeprecationWarning: numpy.core.umath_tests is an internal NumPy module and should not be imported. It will be removed in a future NumPy release.
+  from numpy.core.umath_tests import inner1d
+WARNING:tensorflow:From /lustre/atlas/proj-shared/csc264/modules/deeplearning/20180814/venv/lib/python3.6/site-packages/tensorflow/python/util/deprecation.py:497: calling conv1d (from tensorflow.python.ops.nn_ops) with data_format=NHWC is deprecated and will be removed in a future version.
+Instructions for updating:
+`NHWC` for data_format is deprecated, use `NWC` instead
+Using TensorFlow backend.
+/lustre/atlas/proj-shared/csc264/modules/hyperspace/0.2/venv/lib/python3.6/site-packages/sklearn/ensemble/weight_boosting.py:29: DeprecationWarning: numpy.core.umath_tests is an internal NumPy module and should not be imported. It will be removed in a future NumPy release.
+  from numpy.core.umath_tests import inner1d
+WARNING:tensorflow:From /lustre/atlas/proj-shared/csc264/modules/deeplearning/20180814/venv/lib/python3.6/site-packages/tensorflow/python/util/deprecation.py:497: calling conv1d (from tensorflow.python.ops.nn_ops) with data_format=NHWC is deprecated and will be removed in a future version.
+Instructions for updating:
+`NHWC` for data_format is deprecated, use `NWC` instead
+Using TensorFlow backend.
+/lustre/atlas/proj-shared/csc264/modules/hyperspace/0.2/venv/lib/python3.6/site-packages/sklearn/ensemble/weight_boosting.py:29: DeprecationWarning: numpy.core.umath_tests is an internal NumPy module and should not be imported. It will be removed in a future NumPy release.
+  from numpy.core.umath_tests import inner1d
+WARNING:tensorflow:From /lustre/atlas/proj-shared/csc264/modules/deeplearning/20180814/venv/lib/python3.6/site-packages/tensorflow/python/util/deprecation.py:497: calling conv1d (from tensorflow.python.ops.nn_ops) with data_format=NHWC is deprecated and will be removed in a future version.
+Instructions for updating:
+`NHWC` for data_format is deprecated, use `NWC` instead
+Using TensorFlow backend.
+/lustre/atlas/proj-shared/csc264/modules/hyperspace/0.2/venv/lib/python3.6/site-packages/sklearn/ensemble/weight_boosting.py:29: DeprecationWarning: numpy.core.umath_tests is an internal NumPy module and should not be imported. It will be removed in a future NumPy release.
+  from numpy.core.umath_tests import inner1d
+WARNING:tensorflow:From /lustre/atlas/proj-shared/csc264/modules/deeplearning/20180814/venv/lib/python3.6/site-packages/tensorflow/python/util/deprecation.py:497: calling conv1d (from tensorflow.python.ops.nn_ops) with data_format=NHWC is deprecated and will be removed in a future version.
+Instructions for updating:
+`NHWC` for data_format is deprecated, use `NWC` instead
+Using TensorFlow backend.
+/lustre/atlas/proj-shared/csc264/modules/hyperspace/0.2/venv/lib/python3.6/site-packages/sklearn/ensemble/weight_boosting.py:29: DeprecationWarning: numpy.core.umath_tests is an internal NumPy module and should not be imported. It will be removed in a future NumPy release.
+  from numpy.core.umath_tests import inner1d
+WARNING:tensorflow:From /lustre/atlas/proj-shared/csc264/modules/deeplearning/20180814/venv/lib/python3.6/site-packages/tensorflow/python/util/deprecation.py:497: calling conv1d (from tensorflow.python.ops.nn_ops) with data_format=NHWC is deprecated and will be removed in a future version.
+Instructions for updating:
+`NHWC` for data_format is deprecated, use `NWC` instead
+Using TensorFlow backend.
+/lustre/atlas/proj-shared/csc264/modules/hyperspace/0.2/venv/lib/python3.6/site-packages/sklearn/ensemble/weight_boosting.py:29: DeprecationWarning: numpy.core.umath_tests is an internal NumPy module and should not be imported. It will be removed in a future NumPy release.
+  from numpy.core.umath_tests import inner1d
+WARNING:tensorflow:From /lustre/atlas/proj-shared/csc264/modules/deeplearning/20180814/venv/lib/python3.6/site-packages/tensorflow/python/util/deprecation.py:497: calling conv1d (from tensorflow.python.ops.nn_ops) with data_format=NHWC is deprecated and will be removed in a future version.
+Instructions for updating:
+`NHWC` for data_format is deprecated, use `NWC` instead
+Using TensorFlow backend.
+/lustre/atlas/proj-shared/csc264/modules/hyperspace/0.2/venv/lib/python3.6/site-packages/sklearn/ensemble/weight_boosting.py:29: DeprecationWarning: numpy.core.umath_tests is an internal NumPy module and should not be imported. It will be removed in a future NumPy release.
+  from numpy.core.umath_tests import inner1d
+WARNING:tensorflow:From /lustre/atlas/proj-shared/csc264/modules/deeplearning/20180814/venv/lib/python3.6/site-packages/tensorflow/python/util/deprecation.py:497: calling conv1d (from tensorflow.python.ops.nn_ops) with data_format=NHWC is deprecated and will be removed in a future version.
+Instructions for updating:
+`NHWC` for data_format is deprecated, use `NWC` instead
+Using TensorFlow backend.
+/lustre/atlas/proj-shared/csc264/modules/hyperspace/0.2/venv/lib/python3.6/site-packages/sklearn/ensemble/weight_boosting.py:29: DeprecationWarning: numpy.core.umath_tests is an internal NumPy module and should not be imported. It will be removed in a future NumPy release.
+  from numpy.core.umath_tests import inner1d
+WARNING:tensorflow:From /lustre/atlas/proj-shared/csc264/modules/deeplearning/20180814/venv/lib/python3.6/site-packages/tensorflow/python/util/deprecation.py:497: calling conv1d (from tensorflow.python.ops.nn_ops) with data_format=NHWC is deprecated and will be removed in a future version.
+Instructions for updating:
+`NHWC` for data_format is deprecated, use `NWC` instead
+Using TensorFlow backend.
+/lustre/atlas/proj-shared/csc264/modules/hyperspace/0.2/venv/lib/python3.6/site-packages/sklearn/ensemble/weight_boosting.py:29: DeprecationWarning: numpy.core.umath_tests is an internal NumPy module and should not be imported. It will be removed in a future NumPy release.
+  from numpy.core.umath_tests import inner1d
+WARNING:tensorflow:From /lustre/atlas/proj-shared/csc264/modules/deeplearning/20180814/venv/lib/python3.6/site-packages/tensorflow/python/util/deprecation.py:497: calling conv1d (from tensorflow.python.ops.nn_ops) with data_format=NHWC is deprecated and will be removed in a future version.
+Instructions for updating:
+`NHWC` for data_format is deprecated, use `NWC` instead
+Using TensorFlow backend.
+/lustre/atlas/proj-shared/csc264/modules/hyperspace/0.2/venv/lib/python3.6/site-packages/sklearn/ensemble/weight_boosting.py:29: DeprecationWarning: numpy.core.umath_tests is an internal NumPy module and should not be imported. It will be removed in a future NumPy release.
+  from numpy.core.umath_tests import inner1d
+WARNING:tensorflow:From /lustre/atlas/proj-shared/csc264/modules/deeplearning/20180814/venv/lib/python3.6/site-packages/tensorflow/python/util/deprecation.py:497: calling conv1d (from tensorflow.python.ops.nn_ops) with data_format=NHWC is deprecated and will be removed in a future version.
+Instructions for updating:
+`NHWC` for data_format is deprecated, use `NWC` instead
+Using TensorFlow backend.
+/lustre/atlas/proj-shared/csc264/modules/hyperspace/0.2/venv/lib/python3.6/site-packages/sklearn/ensemble/weight_boosting.py:29: DeprecationWarning: numpy.core.umath_tests is an internal NumPy module and should not be imported. It will be removed in a future NumPy release.
+  from numpy.core.umath_tests import inner1d
+WARNING:tensorflow:From /lustre/atlas/proj-shared/csc264/modules/deeplearning/20180814/venv/lib/python3.6/site-packages/tensorflow/python/util/deprecation.py:497: calling conv1d (from tensorflow.python.ops.nn_ops) with data_format=NHWC is deprecated and will be removed in a future version.
+Instructions for updating:
+`NHWC` for data_format is deprecated, use `NWC` instead
+Using TensorFlow backend.
+/lustre/atlas/proj-shared/csc264/modules/hyperspace/0.2/venv/lib/python3.6/site-packages/sklearn/ensemble/weight_boosting.py:29: DeprecationWarning: numpy.core.umath_tests is an internal NumPy module and should not be imported. It will be removed in a future NumPy release.
+  from numpy.core.umath_tests import inner1d
+WARNING:tensorflow:From /lustre/atlas/proj-shared/csc264/modules/deeplearning/20180814/venv/lib/python3.6/site-packages/tensorflow/python/util/deprecation.py:497: calling conv1d (from tensorflow.python.ops.nn_ops) with data_format=NHWC is deprecated and will be removed in a future version.
+Instructions for updating:
+`NHWC` for data_format is deprecated, use `NWC` instead
+Using TensorFlow backend.
+/lustre/atlas/proj-shared/csc264/modules/hyperspace/0.2/venv/lib/python3.6/site-packages/sklearn/ensemble/weight_boosting.py:29: DeprecationWarning: numpy.core.umath_tests is an internal NumPy module and should not be imported. It will be removed in a future NumPy release.
+  from numpy.core.umath_tests import inner1d
+WARNING:tensorflow:From /lustre/atlas/proj-shared/csc264/modules/deeplearning/20180814/venv/lib/python3.6/site-packages/tensorflow/python/util/deprecation.py:497: calling conv1d (from tensorflow.python.ops.nn_ops) with data_format=NHWC is deprecated and will be removed in a future version.
+Instructions for updating:
+`NHWC` for data_format is deprecated, use `NWC` instead
+Using TensorFlow backend.
+/lustre/atlas/proj-shared/csc264/modules/hyperspace/0.2/venv/lib/python3.6/site-packages/sklearn/ensemble/weight_boosting.py:29: DeprecationWarning: numpy.core.umath_tests is an internal NumPy module and should not be imported. It will be removed in a future NumPy release.
+  from numpy.core.umath_tests import inner1d
+WARNING:tensorflow:From /lustre/atlas/proj-shared/csc264/modules/deeplearning/20180814/venv/lib/python3.6/site-packages/tensorflow/python/util/deprecation.py:497: calling conv1d (from tensorflow.python.ops.nn_ops) with data_format=NHWC is deprecated and will be removed in a future version.
+Instructions for updating:
+`NHWC` for data_format is deprecated, use `NWC` instead
+Using TensorFlow backend.
+/lustre/atlas/proj-shared/csc264/modules/hyperspace/0.2/venv/lib/python3.6/site-packages/sklearn/ensemble/weight_boosting.py:29: DeprecationWarning: numpy.core.umath_tests is an internal NumPy module and should not be imported. It will be removed in a future NumPy release.
+  from numpy.core.umath_tests import inner1d
+WARNING:tensorflow:From /lustre/atlas/proj-shared/csc264/modules/deeplearning/20180814/venv/lib/python3.6/site-packages/tensorflow/python/util/deprecation.py:497: calling conv1d (from tensorflow.python.ops.nn_ops) with data_format=NHWC is deprecated and will be removed in a future version.
+Instructions for updating:
+`NHWC` for data_format is deprecated, use `NWC` instead
+Using TensorFlow backend.
+/lustre/atlas/proj-shared/csc264/modules/hyperspace/0.2/venv/lib/python3.6/site-packages/sklearn/ensemble/weight_boosting.py:29: DeprecationWarning: numpy.core.umath_tests is an internal NumPy module and should not be imported. It will be removed in a future NumPy release.
+  from numpy.core.umath_tests import inner1d
+WARNING:tensorflow:From /lustre/atlas/proj-shared/csc264/modules/deeplearning/20180814/venv/lib/python3.6/site-packages/tensorflow/python/util/deprecation.py:497: calling conv1d (from tensorflow.python.ops.nn_ops) with data_format=NHWC is deprecated and will be removed in a future version.
+Instructions for updating:
+`NHWC` for data_format is deprecated, use `NWC` instead
+Using TensorFlow backend.
+/lustre/atlas/proj-shared/csc264/modules/hyperspace/0.2/venv/lib/python3.6/site-packages/sklearn/ensemble/weight_boosting.py:29: DeprecationWarning: numpy.core.umath_tests is an internal NumPy module and should not be imported. It will be removed in a future NumPy release.
+  from numpy.core.umath_tests import inner1d
+WARNING:tensorflow:From /lustre/atlas/proj-shared/csc264/modules/deeplearning/20180814/venv/lib/python3.6/site-packages/tensorflow/python/util/deprecation.py:497: calling conv1d (from tensorflow.python.ops.nn_ops) with data_format=NHWC is deprecated and will be removed in a future version.
+Instructions for updating:
+`NHWC` for data_format is deprecated, use `NWC` instead
+Using TensorFlow backend.
+/lustre/atlas/proj-shared/csc264/modules/hyperspace/0.2/venv/lib/python3.6/site-packages/sklearn/ensemble/weight_boosting.py:29: DeprecationWarning: numpy.core.umath_tests is an internal NumPy module and should not be imported. It will be removed in a future NumPy release.
+  from numpy.core.umath_tests import inner1d
+WARNING:tensorflow:From /lustre/atlas/proj-shared/csc264/modules/deeplearning/20180814/venv/lib/python3.6/site-packages/tensorflow/python/util/deprecation.py:497: calling conv1d (from tensorflow.python.ops.nn_ops) with data_format=NHWC is deprecated and will be removed in a future version.
+Instructions for updating:
+`NHWC` for data_format is deprecated, use `NWC` instead
+Using TensorFlow backend.
+/lustre/atlas/proj-shared/csc264/modules/hyperspace/0.2/venv/lib/python3.6/site-packages/sklearn/ensemble/weight_boosting.py:29: DeprecationWarning: numpy.core.umath_tests is an internal NumPy module and should not be imported. It will be removed in a future NumPy release.
+  from numpy.core.umath_tests import inner1d
+WARNING:tensorflow:From /lustre/atlas/proj-shared/csc264/modules/deeplearning/20180814/venv/lib/python3.6/site-packages/tensorflow/python/util/deprecation.py:497: calling conv1d (from tensorflow.python.ops.nn_ops) with data_format=NHWC is deprecated and will be removed in a future version.
+Instructions for updating:
+`NHWC` for data_format is deprecated, use `NWC` instead
+Using TensorFlow backend.
+/lustre/atlas/proj-shared/csc264/modules/hyperspace/0.2/venv/lib/python3.6/site-packages/sklearn/ensemble/weight_boosting.py:29: DeprecationWarning: numpy.core.umath_tests is an internal NumPy module and should not be imported. It will be removed in a future NumPy release.
+  from numpy.core.umath_tests import inner1d
+WARNING:tensorflow:From /lustre/atlas/proj-shared/csc264/modules/deeplearning/20180814/venv/lib/python3.6/site-packages/tensorflow/python/util/deprecation.py:497: calling conv1d (from tensorflow.python.ops.nn_ops) with data_format=NHWC is deprecated and will be removed in a future version.
+Instructions for updating:
+`NHWC` for data_format is deprecated, use `NWC` instead
+Using TensorFlow backend.
+/lustre/atlas/proj-shared/csc264/modules/hyperspace/0.2/venv/lib/python3.6/site-packages/sklearn/ensemble/weight_boosting.py:29: DeprecationWarning: numpy.core.umath_tests is an internal NumPy module and should not be imported. It will be removed in a future NumPy release.
+  from numpy.core.umath_tests import inner1d
+WARNING:tensorflow:From /lustre/atlas/proj-shared/csc264/modules/deeplearning/20180814/venv/lib/python3.6/site-packages/tensorflow/python/util/deprecation.py:497: calling conv1d (from tensorflow.python.ops.nn_ops) with data_format=NHWC is deprecated and will be removed in a future version.
+Instructions for updating:
+`NHWC` for data_format is deprecated, use `NWC` instead
+Using TensorFlow backend.
+/lustre/atlas/proj-shared/csc264/modules/hyperspace/0.2/venv/lib/python3.6/site-packages/sklearn/ensemble/weight_boosting.py:29: DeprecationWarning: numpy.core.umath_tests is an internal NumPy module and should not be imported. It will be removed in a future NumPy release.
+  from numpy.core.umath_tests import inner1d
+WARNING:tensorflow:From /lustre/atlas/proj-shared/csc264/modules/deeplearning/20180814/venv/lib/python3.6/site-packages/tensorflow/python/util/deprecation.py:497: calling conv1d (from tensorflow.python.ops.nn_ops) with data_format=NHWC is deprecated and will be removed in a future version.
+Instructions for updating:
+`NHWC` for data_format is deprecated, use `NWC` instead
+Using TensorFlow backend.
+/lustre/atlas/proj-shared/csc264/modules/hyperspace/0.2/venv/lib/python3.6/site-packages/sklearn/ensemble/weight_boosting.py:29: DeprecationWarning: numpy.core.umath_tests is an internal NumPy module and should not be imported. It will be removed in a future NumPy release.
+  from numpy.core.umath_tests import inner1d
+WARNING:tensorflow:From /lustre/atlas/proj-shared/csc264/modules/deeplearning/20180814/venv/lib/python3.6/site-packages/tensorflow/python/util/deprecation.py:497: calling conv1d (from tensorflow.python.ops.nn_ops) with data_format=NHWC is deprecated and will be removed in a future version.
+Instructions for updating:
+`NHWC` for data_format is deprecated, use `NWC` instead
+Using TensorFlow backend.
+/lustre/atlas/proj-shared/csc264/modules/hyperspace/0.2/venv/lib/python3.6/site-packages/sklearn/ensemble/weight_boosting.py:29: DeprecationWarning: numpy.core.umath_tests is an internal NumPy module and should not be imported. It will be removed in a future NumPy release.
+  from numpy.core.umath_tests import inner1d
+WARNING:tensorflow:From /lustre/atlas/proj-shared/csc264/modules/deeplearning/20180814/venv/lib/python3.6/site-packages/tensorflow/python/util/deprecation.py:497: calling conv1d (from tensorflow.python.ops.nn_ops) with data_format=NHWC is deprecated and will be removed in a future version.
+Instructions for updating:
+`NHWC` for data_format is deprecated, use `NWC` instead
+2018-08-20 15:00:10.662637: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 0 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0002:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 15:00:10.664666: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 0 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0002:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 15:00:10.664911: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 0 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0002:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 15:00:10.666188: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 0 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0002:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 15:00:10.667510: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 0 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0002:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 15:00:10.668692: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 0 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0002:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 15:00:10.674879: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 0 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0002:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 15:00:10.733834: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 1 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0003:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 15:00:10.735680: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 1 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0003:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 15:00:10.736204: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 1 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0003:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 15:00:10.737089: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 1 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0003:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 15:00:10.740450: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 1 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0003:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 15:00:10.742193: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 1 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0003:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 15:00:10.746927: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 1 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0003:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 15:00:10.807316: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 2 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0006:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 15:00:10.809664: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 2 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0006:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 15:00:10.810638: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 2 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0006:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 15:00:10.811358: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 2 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0006:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 15:00:10.815317: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 2 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0006:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 15:00:10.816773: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 2 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0006:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 15:00:10.821110: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 2 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0006:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 15:00:10.883840: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 3 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0007:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 15:00:10.884509: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1227] Device peer to peer matrix
+2018-08-20 15:00:10.886737: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 3 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0007:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 15:00:10.887355: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1227] Device peer to peer matrix
+2018-08-20 15:00:10.888084: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 3 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0007:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 15:00:10.888212: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 3 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0007:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 15:00:10.888712: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1227] Device peer to peer matrix
+2018-08-20 15:00:10.888699: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1233] DMA: 0 1 2 3 
+2018-08-20 15:00:10.888729: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 0:   Y Y N N 
+2018-08-20 15:00:10.888858: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1227] Device peer to peer matrix
+2018-08-20 15:00:10.889172: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1233] DMA: 0 1 2 3 
+2018-08-20 15:00:10.889184: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 0:   Y Y N N 
+2018-08-20 15:00:10.889192: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 1:   Y Y N N 
+2018-08-20 15:00:10.889200: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 2:   N N Y Y 
+2018-08-20 15:00:10.889208: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 3:   N N Y Y 
+2018-08-20 15:00:10.888755: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 1:   Y Y N N 
+2018-08-20 15:00:10.888780: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 2:   N N Y Y 
+2018-08-20 15:00:10.889229: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1312] Adding visible gpu devices: 0, 1, 2, 3
+2018-08-20 15:00:10.888804: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 3:   N N Y Y 
+2018-08-20 15:00:10.888843: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1312] Adding visible gpu devices: 0, 1, 2, 3
+2018-08-20 15:00:10.889855: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1233] DMA: 0 1 2 3 
+2018-08-20 15:00:10.889867: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 0:   Y Y N N 
+2018-08-20 15:00:10.889875: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 1:   Y Y N N 
+2018-08-20 15:00:10.889884: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 2:   N N Y Y 
+2018-08-20 15:00:10.889892: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 3:   N N Y Y 
+2018-08-20 15:00:10.889915: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1312] Adding visible gpu devices: 0, 1, 2, 3
+2018-08-20 15:00:10.890026: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1233] DMA: 0 1 2 3 
+2018-08-20 15:00:10.890039: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 0:   Y Y N N 
+2018-08-20 15:00:10.890047: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 1:   Y Y N N 
+2018-08-20 15:00:10.890056: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 2:   N N Y Y 
+2018-08-20 15:00:10.890064: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 3:   N N Y Y 
+2018-08-20 15:00:10.890085: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1312] Adding visible gpu devices: 0, 1, 2, 3
+2018-08-20 15:00:10.892723: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 3 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0007:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 15:00:10.893346: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1227] Device peer to peer matrix
+2018-08-20 15:00:10.894525: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1233] DMA: 0 1 2 3 
+2018-08-20 15:00:10.894537: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 0:   Y Y N N 
+2018-08-20 15:00:10.894546: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 1:   Y Y N N 
+2018-08-20 15:00:10.894554: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 2:   N N Y Y 
+2018-08-20 15:00:10.894562: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 3:   N N Y Y 
+2018-08-20 15:00:10.894584: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1312] Adding visible gpu devices: 0, 1, 2, 3
+2018-08-20 15:00:10.894948: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 3 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0007:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 15:00:10.895570: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1227] Device peer to peer matrix
+2018-08-20 15:00:10.896702: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1233] DMA: 0 1 2 3 
+2018-08-20 15:00:10.896714: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 0:   Y Y N N 
+2018-08-20 15:00:10.896723: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 1:   Y Y N N 
+2018-08-20 15:00:10.896731: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 2:   N N Y Y 
+2018-08-20 15:00:10.896739: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 3:   N N Y Y 
+2018-08-20 15:00:10.896761: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1312] Adding visible gpu devices: 0, 1, 2, 3
+2018-08-20 15:00:10.900185: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 3 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0007:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 15:00:10.900806: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1227] Device peer to peer matrix
+2018-08-20 15:00:10.901998: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1233] DMA: 0 1 2 3 
+2018-08-20 15:00:10.902010: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 0:   Y Y N N 
+2018-08-20 15:00:10.902019: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 1:   Y Y N N 
+2018-08-20 15:00:10.902027: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 2:   N N Y Y 
+2018-08-20 15:00:10.902036: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 3:   N N Y Y 
+2018-08-20 15:00:10.902058: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1312] Adding visible gpu devices: 0, 1, 2, 3
+2018-08-20 15:00:11.724556: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 15133 MB memory) -> physical GPU (device: 0, name: Tesla P100-SXM2-16GB, pci bus id: 0002:01:00.0, compute capability: 6.0)
+2018-08-20 15:00:11.725180: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 15133 MB memory) -> physical GPU (device: 0, name: Tesla P100-SXM2-16GB, pci bus id: 0002:01:00.0, compute capability: 6.0)
+2018-08-20 15:00:11.726424: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 15133 MB memory) -> physical GPU (device: 0, name: Tesla P100-SXM2-16GB, pci bus id: 0002:01:00.0, compute capability: 6.0)
+2018-08-20 15:00:11.727748: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 15133 MB memory) -> physical GPU (device: 0, name: Tesla P100-SXM2-16GB, pci bus id: 0002:01:00.0, compute capability: 6.0)
+2018-08-20 15:00:11.732601: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 15133 MB memory) -> physical GPU (device: 0, name: Tesla P100-SXM2-16GB, pci bus id: 0002:01:00.0, compute capability: 6.0)
+2018-08-20 15:00:11.736186: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 15133 MB memory) -> physical GPU (device: 0, name: Tesla P100-SXM2-16GB, pci bus id: 0002:01:00.0, compute capability: 6.0)
+2018-08-20 15:00:11.739353: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 15133 MB memory) -> physical GPU (device: 0, name: Tesla P100-SXM2-16GB, pci bus id: 0002:01:00.0, compute capability: 6.0)
+2018-08-20 15:00:11.824144: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:1 with 15133 MB memory) -> physical GPU (device: 1, name: Tesla P100-SXM2-16GB, pci bus id: 0003:01:00.0, compute capability: 6.0)
+2018-08-20 15:00:11.825284: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:1 with 15133 MB memory) -> physical GPU (device: 1, name: Tesla P100-SXM2-16GB, pci bus id: 0003:01:00.0, compute capability: 6.0)
+2018-08-20 15:00:11.827998: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:1 with 15133 MB memory) -> physical GPU (device: 1, name: Tesla P100-SXM2-16GB, pci bus id: 0003:01:00.0, compute capability: 6.0)
+2018-08-20 15:00:11.834437: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:1 with 15133 MB memory) -> physical GPU (device: 1, name: Tesla P100-SXM2-16GB, pci bus id: 0003:01:00.0, compute capability: 6.0)
+2018-08-20 15:00:11.837247: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:1 with 15133 MB memory) -> physical GPU (device: 1, name: Tesla P100-SXM2-16GB, pci bus id: 0003:01:00.0, compute capability: 6.0)
+2018-08-20 15:00:11.837211: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:1 with 15133 MB memory) -> physical GPU (device: 1, name: Tesla P100-SXM2-16GB, pci bus id: 0003:01:00.0, compute capability: 6.0)
+2018-08-20 15:00:11.840019: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:1 with 15133 MB memory) -> physical GPU (device: 1, name: Tesla P100-SXM2-16GB, pci bus id: 0003:01:00.0, compute capability: 6.0)
+2018-08-20 15:00:11.923931: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:2 with 15133 MB memory) -> physical GPU (device: 2, name: Tesla P100-SXM2-16GB, pci bus id: 0006:01:00.0, compute capability: 6.0)
+2018-08-20 15:00:11.925583: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:2 with 15133 MB memory) -> physical GPU (device: 2, name: Tesla P100-SXM2-16GB, pci bus id: 0006:01:00.0, compute capability: 6.0)
+2018-08-20 15:00:11.928478: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:2 with 15133 MB memory) -> physical GPU (device: 2, name: Tesla P100-SXM2-16GB, pci bus id: 0006:01:00.0, compute capability: 6.0)
+2018-08-20 15:00:11.937201: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:2 with 15133 MB memory) -> physical GPU (device: 2, name: Tesla P100-SXM2-16GB, pci bus id: 0006:01:00.0, compute capability: 6.0)
+2018-08-20 15:00:11.939143: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:2 with 15133 MB memory) -> physical GPU (device: 2, name: Tesla P100-SXM2-16GB, pci bus id: 0006:01:00.0, compute capability: 6.0)
+2018-08-20 15:00:11.940831: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:2 with 15133 MB memory) -> physical GPU (device: 2, name: Tesla P100-SXM2-16GB, pci bus id: 0006:01:00.0, compute capability: 6.0)
+2018-08-20 15:00:11.945737: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:2 with 15133 MB memory) -> physical GPU (device: 2, name: Tesla P100-SXM2-16GB, pci bus id: 0006:01:00.0, compute capability: 6.0)
+2018-08-20 15:00:12.023801: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:3 with 15133 MB memory) -> physical GPU (device: 3, name: Tesla P100-SXM2-16GB, pci bus id: 0007:01:00.0, compute capability: 6.0)
+2018-08-20 15:00:12.026101: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:3 with 15133 MB memory) -> physical GPU (device: 3, name: Tesla P100-SXM2-16GB, pci bus id: 0007:01:00.0, compute capability: 6.0)
+2018-08-20 15:00:12.029615: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:3 with 15133 MB memory) -> physical GPU (device: 3, name: Tesla P100-SXM2-16GB, pci bus id: 0007:01:00.0, compute capability: 6.0)
+2018-08-20 15:00:12.037726: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:3 with 15133 MB memory) -> physical GPU (device: 3, name: Tesla P100-SXM2-16GB, pci bus id: 0007:01:00.0, compute capability: 6.0)
+2018-08-20 15:00:12.040641: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:3 with 15133 MB memory) -> physical GPU (device: 3, name: Tesla P100-SXM2-16GB, pci bus id: 0007:01:00.0, compute capability: 6.0)
+2018-08-20 15:00:12.041806: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:3 with 15133 MB memory) -> physical GPU (device: 3, name: Tesla P100-SXM2-16GB, pci bus id: 0007:01:00.0, compute capability: 6.0)
+2018-08-20 15:00:12.046562: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:3 with 15133 MB memory) -> physical GPU (device: 3, name: Tesla P100-SXM2-16GB, pci bus id: 0007:01:00.0, compute capability: 6.0)
+2018-08-20 15:00:12.294521: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 0 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0002:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 14:59:45.933192: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 0 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0002:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 14:59:52.453491: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 0 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0002:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 14:59:36.173404: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 0 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0002:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 15:16:21.483952: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 0 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0002:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 15:00:12.296212: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 0 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0002:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 14:59:52.862984: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 0 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0002:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 14:58:33.721881: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 0 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0002:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 14:59:52.521352: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 0 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0002:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 14:57:45.881142: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 0 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0002:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 14:59:28.651381: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 0 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0002:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 15:00:12.301836: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 0 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0002:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 14:59:53.551895: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 0 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0002:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 14:59:45.721707: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 0 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0002:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 14:59:03.811787: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 0 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0002:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 14:58:11.221946: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 0 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0002:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 15:00:12.308788: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 0 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0002:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 14:59:30.211562: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 0 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0002:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 15:00:12.310233: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 0 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0002:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 14:59:40.131811: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 0 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0002:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 14:59:17.241833: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 0 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0002:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 14:59:19.142036: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 0 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0002:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 14:59:23.141934: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 0 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0002:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 14:59:24.372891: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 0 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0002:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 15:00:12.319136: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 0 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0002:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 15:00:12.365739: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 1 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0003:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 14:59:46.004555: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 1 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0003:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 14:59:36.244677: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 1 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0003:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 14:59:52.525103: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 1 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0003:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 14:59:52.933726: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 1 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0003:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 15:00:12.368312: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 1 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0003:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 15:16:21.557175: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 1 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0003:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 14:59:52.591526: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 1 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0003:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 14:58:33.793220: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 1 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0003:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 14:57:45.951528: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 1 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0003:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 14:59:28.721750: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 1 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0003:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 15:00:12.372228: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 1 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0003:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 14:59:53.622478: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 1 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0003:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 14:59:45.792675: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 1 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0003:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 14:59:03.882824: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 1 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0003:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 14:58:11.292735: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 1 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0003:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 15:00:12.379701: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 1 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0003:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 14:59:30.281782: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 1 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0003:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 15:00:12.381375: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 1 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0003:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 14:59:17.312588: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 1 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0003:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 14:59:40.204632: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 1 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0003:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 14:59:19.213175: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 1 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0003:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 14:59:23.212619: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 1 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0003:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 14:59:24.443540: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 1 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0003:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 15:00:12.390840: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 1 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0003:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 15:00:12.439938: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 2 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0006:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 14:59:46.078779: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 2 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0006:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 14:59:36.318687: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 2 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0006:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 14:59:52.599080: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 2 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0006:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 14:59:53.008543: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 2 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0006:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 15:16:21.630932: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 2 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0006:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 15:00:12.443302: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 2 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0006:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 14:59:52.666051: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 2 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0006:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 14:58:33.867678: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 2 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0006:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 14:59:28.795919: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 2 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0006:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 15:00:12.447776: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 2 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0006:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 14:59:53.697215: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 2 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0006:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 14:57:46.027939: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 2 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0006:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 14:59:45.867364: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 2 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0006:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 15:00:12.453214: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 2 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0006:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 14:59:03.958168: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 2 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0006:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 14:58:11.367993: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 2 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0006:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 14:59:30.356336: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 2 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0006:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 15:00:12.456476: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 2 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0006:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 14:59:17.386422: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 2 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0006:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 14:59:40.279307: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 2 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0006:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 14:59:19.287408: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 2 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0006:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 14:59:23.286514: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 2 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0006:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 14:59:24.517501: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 2 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0006:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 15:00:12.465998: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 2 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0006:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 15:00:12.515382: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 3 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0007:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 15:00:12.516002: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1227] Device peer to peer matrix
+2018-08-20 14:59:46.154635: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 3 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0007:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 14:59:52.674879: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 3 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0007:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 14:59:36.394558: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 3 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0007:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 14:59:46.155254: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1227] Device peer to peer matrix
+2018-08-20 14:59:52.675512: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1227] Device peer to peer matrix
+2018-08-20 14:59:36.395174: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1227] Device peer to peer matrix
+2018-08-20 15:00:12.517255: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1233] DMA: 0 1 2 3 
+2018-08-20 15:00:12.517267: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 0:   Y Y N N 
+2018-08-20 15:00:12.517276: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 1:   Y Y N N 
+2018-08-20 15:00:12.517284: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 2:   N N Y Y 
+2018-08-20 15:00:12.517292: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 3:   N N Y Y 
+2018-08-20 15:00:12.517314: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1312] Adding visible gpu devices: 0, 1, 2, 3
+2018-08-20 14:59:46.156412: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1233] DMA: 0 1 2 3 
+2018-08-20 14:59:46.156424: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 0:   Y Y N N 
+2018-08-20 14:59:46.156433: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 1:   Y Y N N 
+2018-08-20 14:59:46.156442: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 2:   N N Y Y 
+2018-08-20 14:59:46.156450: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 3:   N N Y Y 
+2018-08-20 14:59:46.156473: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1312] Adding visible gpu devices: 0, 1, 2, 3
+2018-08-20 14:59:52.676753: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1233] DMA: 0 1 2 3 
+2018-08-20 14:59:52.676765: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 0:   Y Y N N 
+2018-08-20 14:59:52.676773: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 1:   Y Y N N 
+2018-08-20 14:59:52.676782: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 2:   N N Y Y 
+2018-08-20 14:59:52.676790: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 3:   N N Y Y 
+2018-08-20 14:59:52.676811: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1312] Adding visible gpu devices: 0, 1, 2, 3
+2018-08-20 14:59:36.396577: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1233] DMA: 0 1 2 3 
+2018-08-20 14:59:36.396589: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 0:   Y Y N N 
+2018-08-20 14:59:36.396598: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 1:   Y Y N N 
+2018-08-20 14:59:36.396606: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 2:   N N Y Y 
+2018-08-20 14:59:36.396614: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 3:   N N Y Y 
+2018-08-20 14:59:52.741199: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 3 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0007:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 14:59:53.085578: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 3 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0007:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 14:59:36.396636: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1312] Adding visible gpu devices: 0, 1, 2, 3
+2018-08-20 15:00:12.519445: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 3 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0007:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 14:59:52.741848: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1227] Device peer to peer matrix
+2018-08-20 14:59:53.086232: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1227] Device peer to peer matrix
+2018-08-20 15:00:12.520104: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1227] Device peer to peer matrix
+2018-08-20 15:16:21.708066: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 3 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0007:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 14:58:33.943697: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 3 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0007:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 15:16:21.708731: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1227] Device peer to peer matrix
+2018-08-20 14:59:53.087359: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1233] DMA: 0 1 2 3 
+2018-08-20 14:59:53.087371: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 0:   Y Y N N 
+2018-08-20 14:59:53.087380: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 1:   Y Y N N 
+2018-08-20 14:59:53.087388: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 2:   N N Y Y 
+2018-08-20 14:59:53.087396: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 3:   N N Y Y 
+2018-08-20 14:59:53.087419: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1312] Adding visible gpu devices: 0, 1, 2, 3
+2018-08-20 14:59:52.743219: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1233] DMA: 0 1 2 3 
+2018-08-20 14:59:52.743231: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 0:   Y Y N N 
+2018-08-20 14:58:33.944346: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1227] Device peer to peer matrix
+2018-08-20 14:59:52.743240: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 1:   Y Y N N 
+2018-08-20 14:59:52.743248: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 2:   N N Y Y 
+2018-08-20 14:59:52.743256: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 3:   N N Y Y 
+2018-08-20 14:59:52.743277: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1312] Adding visible gpu devices: 0, 1, 2, 3
+2018-08-20 15:00:12.521293: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1233] DMA: 0 1 2 3 
+2018-08-20 15:00:12.521324: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 0:   Y Y N N 
+2018-08-20 14:59:28.871102: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 3 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0007:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 15:00:12.521349: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 1:   Y Y N N 
+2018-08-20 15:00:12.521374: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 2:   N N Y Y 
+2018-08-20 15:00:12.521399: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 3:   N N Y Y 
+2018-08-20 14:59:28.871723: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1227] Device peer to peer matrix
+2018-08-20 15:16:21.709910: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1233] DMA: 0 1 2 3 
+2018-08-20 15:16:21.709922: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 0:   Y Y N N 
+2018-08-20 15:16:21.709931: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 1:   Y Y N N 
+2018-08-20 15:16:21.709939: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 2:   N N Y Y 
+2018-08-20 15:16:21.709947: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 3:   N N Y Y 
+2018-08-20 15:00:12.521439: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1312] Adding visible gpu devices: 0, 1, 2, 3
+2018-08-20 14:58:33.945478: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1233] DMA: 0 1 2 3 
+2018-08-20 14:58:33.945508: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 0:   Y Y N N 
+2018-08-20 15:16:21.709970: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1312] Adding visible gpu devices: 0, 1, 2, 3
+2018-08-20 14:58:33.945534: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 1:   Y Y N N 
+2018-08-20 14:58:33.945558: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 2:   N N Y Y 
+2018-08-20 14:58:33.945583: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 3:   N N Y Y 
+2018-08-20 14:58:33.945622: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1312] Adding visible gpu devices: 0, 1, 2, 3
+2018-08-20 15:00:12.523011: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 3 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0007:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 14:59:28.872872: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1233] DMA: 0 1 2 3 
+2018-08-20 14:59:28.872883: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 0:   Y Y N N 
+2018-08-20 14:59:28.872892: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 1:   Y Y N N 
+2018-08-20 14:59:28.872900: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 2:   N N Y Y 
+2018-08-20 14:59:28.872908: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 3:   N N Y Y 
+2018-08-20 14:59:28.872929: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1312] Adding visible gpu devices: 0, 1, 2, 3
+2018-08-20 14:59:53.772726: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 3 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0007:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 14:57:46.103075: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 3 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0007:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 15:00:12.523692: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1227] Device peer to peer matrix
+2018-08-20 14:59:53.773343: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1227] Device peer to peer matrix
+2018-08-20 14:57:46.103691: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1227] Device peer to peer matrix
+2018-08-20 15:00:12.524816: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1233] DMA: 0 1 2 3 
+2018-08-20 15:00:12.524847: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 0:   Y Y N N 
+2018-08-20 15:00:12.524873: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 1:   Y Y N N 
+2018-08-20 15:00:12.524897: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 2:   N N Y Y 
+2018-08-20 15:00:12.524922: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 3:   N N Y Y 
+2018-08-20 14:59:53.774494: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1233] DMA: 0 1 2 3 
+2018-08-20 14:59:53.774506: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 0:   Y Y N N 
+2018-08-20 14:59:53.774515: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 1:   Y Y N N 
+2018-08-20 14:59:53.774524: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 2:   N N Y Y 
+2018-08-20 14:59:53.774532: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 3:   N N Y Y 
+2018-08-20 15:00:12.524962: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1312] Adding visible gpu devices: 0, 1, 2, 3
+2018-08-20 14:59:53.774555: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1312] Adding visible gpu devices: 0, 1, 2, 3
+2018-08-20 14:57:46.104972: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1233] DMA: 0 1 2 3 
+2018-08-20 14:57:46.104984: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 0:   Y Y N N 
+2018-08-20 14:57:46.104993: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 1:   Y Y N N 
+2018-08-20 14:57:46.105001: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 2:   N N Y Y 
+2018-08-20 14:57:46.105009: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 3:   N N Y Y 
+2018-08-20 14:57:46.105031: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1312] Adding visible gpu devices: 0, 1, 2, 3
+2018-08-20 14:59:45.942763: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 3 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0007:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 14:59:45.943382: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1227] Device peer to peer matrix
+2018-08-20 14:59:45.944446: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1233] DMA: 0 1 2 3 
+2018-08-20 14:59:45.944458: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 0:   Y Y N N 
+2018-08-20 14:59:45.944467: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 1:   Y Y N N 
+2018-08-20 14:59:45.944475: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 2:   N N Y Y 
+2018-08-20 14:59:45.944483: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 3:   N N Y Y 
+2018-08-20 14:59:45.944505: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1312] Adding visible gpu devices: 0, 1, 2, 3
+2018-08-20 15:00:12.528750: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 3 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0007:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 14:59:04.033876: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 3 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0007:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 15:00:12.529367: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1227] Device peer to peer matrix
+2018-08-20 14:59:04.034540: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1227] Device peer to peer matrix
+2018-08-20 15:00:12.530463: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1233] DMA: 0 1 2 3 
+2018-08-20 15:00:12.530475: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 0:   Y Y N N 
+2018-08-20 15:00:12.530484: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 1:   Y Y N N 
+2018-08-20 15:00:12.530492: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 2:   N N Y Y 
+2018-08-20 15:00:12.530500: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 3:   N N Y Y 
+2018-08-20 15:00:12.530522: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1312] Adding visible gpu devices: 0, 1, 2, 3
+2018-08-20 14:59:04.035658: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1233] DMA: 0 1 2 3 
+2018-08-20 14:59:04.035688: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 0:   Y Y N N 
+2018-08-20 14:59:04.035714: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 1:   Y Y N N 
+2018-08-20 14:59:04.035739: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 2:   N N Y Y 
+2018-08-20 14:59:30.433019: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 3 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0007:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 14:58:11.444915: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 3 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0007:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 14:59:04.035764: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 3:   N N Y Y 
+2018-08-20 14:59:04.035803: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1312] Adding visible gpu devices: 0, 1, 2, 3
+2018-08-20 14:59:30.433637: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1227] Device peer to peer matrix
+2018-08-20 14:58:11.445578: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1227] Device peer to peer matrix
+2018-08-20 15:00:12.532410: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 3 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0007:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 14:59:30.434704: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1233] DMA: 0 1 2 3 
+2018-08-20 14:59:30.434716: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 0:   Y Y N N 
+2018-08-20 14:59:30.434725: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 1:   Y Y N N 
+2018-08-20 14:59:30.434733: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 2:   N N Y Y 
+2018-08-20 14:59:30.434741: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 3:   N N Y Y 
+2018-08-20 14:59:30.434763: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1312] Adding visible gpu devices: 0, 1, 2, 3
+2018-08-20 14:58:11.446706: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1233] DMA: 0 1 2 3 
+2018-08-20 14:58:11.446737: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 0:   Y Y N N 
+2018-08-20 14:58:11.446762: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 1:   Y Y N N 
+2018-08-20 14:58:11.446787: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 2:   N N Y Y 
+2018-08-20 14:58:11.446812: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 3:   N N Y Y 
+2018-08-20 14:58:11.446851: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1312] Adding visible gpu devices: 0, 1, 2, 3
+2018-08-20 15:00:12.533029: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1227] Device peer to peer matrix
+2018-08-20 14:59:40.354841: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 3 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0007:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 14:59:17.463278: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 3 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0007:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 14:59:40.355458: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1227] Device peer to peer matrix
+2018-08-20 15:00:12.534120: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1233] DMA: 0 1 2 3 
+2018-08-20 15:00:12.534131: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 0:   Y Y N N 
+2018-08-20 14:59:17.463939: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1227] Device peer to peer matrix
+2018-08-20 15:00:12.534140: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 1:   Y Y N N 
+2018-08-20 15:00:12.534149: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 2:   N N Y Y 
+2018-08-20 15:00:12.534157: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 3:   N N Y Y 
+2018-08-20 15:00:12.534178: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1312] Adding visible gpu devices: 0, 1, 2, 3
+2018-08-20 14:59:23.362394: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 3 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0007:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 14:59:19.363940: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 3 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0007:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 14:59:23.363024: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1227] Device peer to peer matrix
+2018-08-20 14:59:40.356512: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1233] DMA: 0 1 2 3 
+2018-08-20 14:59:40.356524: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 0:   Y Y N N 
+2018-08-20 14:59:40.356532: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 1:   Y Y N N 
+2018-08-20 14:59:40.356541: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 2:   N N Y Y 
+2018-08-20 14:59:40.356549: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 3:   N N Y Y 
+2018-08-20 14:59:40.356570: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1312] Adding visible gpu devices: 0, 1, 2, 3
+2018-08-20 14:59:17.465032: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1233] DMA: 0 1 2 3 
+2018-08-20 14:59:19.364576: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1227] Device peer to peer matrix
+2018-08-20 14:59:17.465063: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 0:   Y Y N N 
+2018-08-20 14:59:17.465089: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 1:   Y Y N N 
+2018-08-20 14:59:17.465114: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 2:   N N Y Y 
+2018-08-20 14:59:17.465138: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 3:   N N Y Y 
+2018-08-20 14:59:17.465178: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1312] Adding visible gpu devices: 0, 1, 2, 3
+2018-08-20 14:59:23.364098: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1233] DMA: 0 1 2 3 
+2018-08-20 14:59:23.364109: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 0:   Y Y N N 
+2018-08-20 14:59:23.364118: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 1:   Y Y N N 
+2018-08-20 14:59:23.364126: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 2:   N N Y Y 
+2018-08-20 14:59:23.364134: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 3:   N N Y Y 
+2018-08-20 14:59:23.364156: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1312] Adding visible gpu devices: 0, 1, 2, 3
+2018-08-20 14:59:24.592875: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 3 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0007:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 14:59:19.365588: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1233] DMA: 0 1 2 3 
+2018-08-20 14:59:19.365600: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 0:   Y Y N N 
+2018-08-20 14:59:19.365609: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 1:   Y Y N N 
+2018-08-20 14:59:19.365617: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 2:   N N Y Y 
+2018-08-20 14:59:19.365625: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 3:   N N Y Y 
+2018-08-20 14:59:19.365646: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1312] Adding visible gpu devices: 0, 1, 2, 3
+2018-08-20 14:59:24.593511: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1227] Device peer to peer matrix
+2018-08-20 14:59:24.594619: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1233] DMA: 0 1 2 3 
+2018-08-20 14:59:24.594631: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 0:   Y Y N N 
+2018-08-20 14:59:24.594640: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 1:   Y Y N N 
+2018-08-20 14:59:24.594649: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 2:   N N Y Y 
+2018-08-20 14:59:24.594657: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 3:   N N Y Y 
+2018-08-20 14:59:24.594678: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1312] Adding visible gpu devices: 0, 1, 2, 3
+2018-08-20 15:00:12.541910: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1212] Found device 3 with properties: 
+name: Tesla P100-SXM2-16GB major: 6 minor: 0 memoryClockRate(GHz): 1.4805
+pciBusID: 0007:01:00.0
+totalMemory: 15.90GiB freeMemory: 15.61GiB
+2018-08-20 15:00:12.542525: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1227] Device peer to peer matrix
+2018-08-20 15:00:12.543585: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1233] DMA: 0 1 2 3 
+2018-08-20 15:00:12.543597: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 0:   Y Y N N 
+2018-08-20 15:00:12.543606: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 1:   Y Y N N 
+2018-08-20 15:00:12.543614: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 2:   N N Y Y 
+2018-08-20 15:00:12.543622: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1243] 3:   N N Y Y 
+2018-08-20 15:00:12.543644: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1312] Adding visible gpu devices: 0, 1, 2, 3
+2018-08-20 14:59:53.765262: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 15133 MB memory) -> physical GPU (device: 0, name: Tesla P100-SXM2-16GB, pci bus id: 0002:01:00.0, compute capability: 6.0)
+2018-08-20 14:59:25.673799: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 15133 MB memory) -> physical GPU (device: 0, name: Tesla P100-SXM2-16GB, pci bus id: 0002:01:00.0, compute capability: 6.0)
+2018-08-20 14:59:54.867025: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 15133 MB memory) -> physical GPU (device: 0, name: Tesla P100-SXM2-16GB, pci bus id: 0002:01:00.0, compute capability: 6.0)
+2018-08-20 14:59:24.450457: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 15133 MB memory) -> physical GPU (device: 0, name: Tesla P100-SXM2-16GB, pci bus id: 0002:01:00.0, compute capability: 6.0)
+2018-08-20 15:00:13.624700: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 15133 MB memory) -> physical GPU (device: 0, name: Tesla P100-SXM2-16GB, pci bus id: 0002:01:00.0, compute capability: 6.0)
+2018-08-20 14:59:54.191934: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 15133 MB memory) -> physical GPU (device: 0, name: Tesla P100-SXM2-16GB, pci bus id: 0002:01:00.0, compute capability: 6.0)
+2018-08-20 14:59:29.975873: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 15133 MB memory) -> physical GPU (device: 0, name: Tesla P100-SXM2-16GB, pci bus id: 0002:01:00.0, compute capability: 6.0)
+2018-08-20 15:00:13.626092: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 15133 MB memory) -> physical GPU (device: 0, name: Tesla P100-SXM2-16GB, pci bus id: 0002:01:00.0, compute capability: 6.0)
+2018-08-20 15:16:22.814554: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 15133 MB memory) -> physical GPU (device: 0, name: Tesla P100-SXM2-16GB, pci bus id: 0002:01:00.0, compute capability: 6.0)
+2018-08-20 15:00:13.630387: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 15133 MB memory) -> physical GPU (device: 0, name: Tesla P100-SXM2-16GB, pci bus id: 0002:01:00.0, compute capability: 6.0)
+2018-08-20 15:00:13.631879: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 15133 MB memory) -> physical GPU (device: 0, name: Tesla P100-SXM2-16GB, pci bus id: 0002:01:00.0, compute capability: 6.0)
+2018-08-20 15:00:13.632697: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 15133 MB memory) -> physical GPU (device: 0, name: Tesla P100-SXM2-16GB, pci bus id: 0002:01:00.0, compute capability: 6.0)
+2018-08-20 14:59:41.454320: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 15133 MB memory) -> physical GPU (device: 0, name: Tesla P100-SXM2-16GB, pci bus id: 0002:01:00.0, compute capability: 6.0)
+2018-08-20 14:59:20.463018: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 15133 MB memory) -> physical GPU (device: 0, name: Tesla P100-SXM2-16GB, pci bus id: 0002:01:00.0, compute capability: 6.0)
+2018-08-20 14:59:47.271997: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 15133 MB memory) -> physical GPU (device: 0, name: Tesla P100-SXM2-16GB, pci bus id: 0002:01:00.0, compute capability: 6.0)
+2018-08-20 14:57:47.218268: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 15133 MB memory) -> physical GPU (device: 0, name: Tesla P100-SXM2-16GB, pci bus id: 0002:01:00.0, compute capability: 6.0)
+2018-08-20 14:59:18.570125: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 15133 MB memory) -> physical GPU (device: 0, name: Tesla P100-SXM2-16GB, pci bus id: 0002:01:00.0, compute capability: 6.0)
+2018-08-20 14:59:47.059325: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 15133 MB memory) -> physical GPU (device: 0, name: Tesla P100-SXM2-16GB, pci bus id: 0002:01:00.0, compute capability: 6.0)
+2018-08-20 14:59:37.522200: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 15133 MB memory) -> physical GPU (device: 0, name: Tesla P100-SXM2-16GB, pci bus id: 0002:01:00.0, compute capability: 6.0)
+2018-08-20 14:59:31.547962: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 15133 MB memory) -> physical GPU (device: 0, name: Tesla P100-SXM2-16GB, pci bus id: 0002:01:00.0, compute capability: 6.0)
+2018-08-20 14:58:12.559795: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 15133 MB memory) -> physical GPU (device: 0, name: Tesla P100-SXM2-16GB, pci bus id: 0002:01:00.0, compute capability: 6.0)
+2018-08-20 14:58:35.069256: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 15133 MB memory) -> physical GPU (device: 0, name: Tesla P100-SXM2-16GB, pci bus id: 0002:01:00.0, compute capability: 6.0)
+2018-08-20 14:59:53.868156: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 15133 MB memory) -> physical GPU (device: 0, name: Tesla P100-SXM2-16GB, pci bus id: 0002:01:00.0, compute capability: 6.0)
+2018-08-20 14:59:05.153373: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 15133 MB memory) -> physical GPU (device: 0, name: Tesla P100-SXM2-16GB, pci bus id: 0002:01:00.0, compute capability: 6.0)
+2018-08-20 15:00:13.657694: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 15133 MB memory) -> physical GPU (device: 0, name: Tesla P100-SXM2-16GB, pci bus id: 0002:01:00.0, compute capability: 6.0)
+2018-08-20 14:59:25.773903: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:1 with 15133 MB memory) -> physical GPU (device: 1, name: Tesla P100-SXM2-16GB, pci bus id: 0003:01:00.0, compute capability: 6.0)
+2018-08-20 14:59:54.967622: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:1 with 15133 MB memory) -> physical GPU (device: 1, name: Tesla P100-SXM2-16GB, pci bus id: 0003:01:00.0, compute capability: 6.0)
+2018-08-20 14:59:53.879138: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:1 with 15133 MB memory) -> physical GPU (device: 1, name: Tesla P100-SXM2-16GB, pci bus id: 0003:01:00.0, compute capability: 6.0)
+2018-08-20 14:59:24.550884: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:1 with 15133 MB memory) -> physical GPU (device: 1, name: Tesla P100-SXM2-16GB, pci bus id: 0003:01:00.0, compute capability: 6.0)
+2018-08-20 15:00:13.724466: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:1 with 15133 MB memory) -> physical GPU (device: 1, name: Tesla P100-SXM2-16GB, pci bus id: 0003:01:00.0, compute capability: 6.0)
+2018-08-20 14:59:54.291596: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:1 with 15133 MB memory) -> physical GPU (device: 1, name: Tesla P100-SXM2-16GB, pci bus id: 0003:01:00.0, compute capability: 6.0)
+2018-08-20 15:00:13.726626: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:1 with 15133 MB memory) -> physical GPU (device: 1, name: Tesla P100-SXM2-16GB, pci bus id: 0003:01:00.0, compute capability: 6.0)
+2018-08-20 14:59:30.076723: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:1 with 15133 MB memory) -> physical GPU (device: 1, name: Tesla P100-SXM2-16GB, pci bus id: 0003:01:00.0, compute capability: 6.0)
+2018-08-20 15:00:13.730475: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:1 with 15133 MB memory) -> physical GPU (device: 1, name: Tesla P100-SXM2-16GB, pci bus id: 0003:01:00.0, compute capability: 6.0)
+2018-08-20 14:59:41.554731: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:1 with 15133 MB memory) -> physical GPU (device: 1, name: Tesla P100-SXM2-16GB, pci bus id: 0003:01:00.0, compute capability: 6.0)
+2018-08-20 15:00:13.734019: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:1 with 15133 MB memory) -> physical GPU (device: 1, name: Tesla P100-SXM2-16GB, pci bus id: 0003:01:00.0, compute capability: 6.0)
+2018-08-20 14:59:20.563541: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:1 with 15133 MB memory) -> physical GPU (device: 1, name: Tesla P100-SXM2-16GB, pci bus id: 0003:01:00.0, compute capability: 6.0)
+2018-08-20 14:59:47.372593: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:1 with 15133 MB memory) -> physical GPU (device: 1, name: Tesla P100-SXM2-16GB, pci bus id: 0003:01:00.0, compute capability: 6.0)
+2018-08-20 15:16:22.925139: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:1 with 15133 MB memory) -> physical GPU (device: 1, name: Tesla P100-SXM2-16GB, pci bus id: 0003:01:00.0, compute capability: 6.0)
+2018-08-20 14:57:47.318548: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:1 with 15133 MB memory) -> physical GPU (device: 1, name: Tesla P100-SXM2-16GB, pci bus id: 0003:01:00.0, compute capability: 6.0)
+2018-08-20 14:59:18.670833: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:1 with 15133 MB memory) -> physical GPU (device: 1, name: Tesla P100-SXM2-16GB, pci bus id: 0003:01:00.0, compute capability: 6.0)
+2018-08-20 14:59:47.159737: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:1 with 15133 MB memory) -> physical GPU (device: 1, name: Tesla P100-SXM2-16GB, pci bus id: 0003:01:00.0, compute capability: 6.0)
+2018-08-20 15:00:13.742643: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:1 with 15133 MB memory) -> physical GPU (device: 1, name: Tesla P100-SXM2-16GB, pci bus id: 0003:01:00.0, compute capability: 6.0)
+2018-08-20 14:59:31.648283: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:1 with 15133 MB memory) -> physical GPU (device: 1, name: Tesla P100-SXM2-16GB, pci bus id: 0003:01:00.0, compute capability: 6.0)
+2018-08-20 14:58:12.660364: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:1 with 15133 MB memory) -> physical GPU (device: 1, name: Tesla P100-SXM2-16GB, pci bus id: 0003:01:00.0, compute capability: 6.0)
+2018-08-20 14:58:35.170042: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:1 with 15133 MB memory) -> physical GPU (device: 1, name: Tesla P100-SXM2-16GB, pci bus id: 0003:01:00.0, compute capability: 6.0)
+2018-08-20 14:59:53.969169: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:1 with 15133 MB memory) -> physical GPU (device: 1, name: Tesla P100-SXM2-16GB, pci bus id: 0003:01:00.0, compute capability: 6.0)
+2018-08-20 14:59:05.253852: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:1 with 15133 MB memory) -> physical GPU (device: 1, name: Tesla P100-SXM2-16GB, pci bus id: 0003:01:00.0, compute capability: 6.0)
+2018-08-20 14:59:37.632702: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:1 with 15133 MB memory) -> physical GPU (device: 1, name: Tesla P100-SXM2-16GB, pci bus id: 0003:01:00.0, compute capability: 6.0)
+2018-08-20 15:00:13.757865: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:1 with 15133 MB memory) -> physical GPU (device: 1, name: Tesla P100-SXM2-16GB, pci bus id: 0003:01:00.0, compute capability: 6.0)
+2018-08-20 14:59:25.873567: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:2 with 15133 MB memory) -> physical GPU (device: 2, name: Tesla P100-SXM2-16GB, pci bus id: 0006:01:00.0, compute capability: 6.0)
+2018-08-20 14:59:55.067869: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:2 with 15133 MB memory) -> physical GPU (device: 2, name: Tesla P100-SXM2-16GB, pci bus id: 0006:01:00.0, compute capability: 6.0)
+2018-08-20 14:59:53.979212: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:2 with 15133 MB memory) -> physical GPU (device: 2, name: Tesla P100-SXM2-16GB, pci bus id: 0006:01:00.0, compute capability: 6.0)
+2018-08-20 15:00:13.823659: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:2 with 15133 MB memory) -> physical GPU (device: 2, name: Tesla P100-SXM2-16GB, pci bus id: 0006:01:00.0, compute capability: 6.0)
+2018-08-20 14:59:54.390774: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:2 with 15133 MB memory) -> physical GPU (device: 2, name: Tesla P100-SXM2-16GB, pci bus id: 0006:01:00.0, compute capability: 6.0)
+2018-08-20 15:00:13.826697: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:2 with 15133 MB memory) -> physical GPU (device: 2, name: Tesla P100-SXM2-16GB, pci bus id: 0006:01:00.0, compute capability: 6.0)
+2018-08-20 14:59:30.177040: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:2 with 15133 MB memory) -> physical GPU (device: 2, name: Tesla P100-SXM2-16GB, pci bus id: 0006:01:00.0, compute capability: 6.0)
+2018-08-20 15:00:13.830100: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:2 with 15133 MB memory) -> physical GPU (device: 2, name: Tesla P100-SXM2-16GB, pci bus id: 0006:01:00.0, compute capability: 6.0)
+2018-08-20 14:59:41.654469: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:2 with 15133 MB memory) -> physical GPU (device: 2, name: Tesla P100-SXM2-16GB, pci bus id: 0006:01:00.0, compute capability: 6.0)
+2018-08-20 14:59:24.661182: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:2 with 15133 MB memory) -> physical GPU (device: 2, name: Tesla P100-SXM2-16GB, pci bus id: 0006:01:00.0, compute capability: 6.0)
+2018-08-20 15:00:13.834130: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:2 with 15133 MB memory) -> physical GPU (device: 2, name: Tesla P100-SXM2-16GB, pci bus id: 0006:01:00.0, compute capability: 6.0)
+2018-08-20 14:59:20.663703: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:2 with 15133 MB memory) -> physical GPU (device: 2, name: Tesla P100-SXM2-16GB, pci bus id: 0006:01:00.0, compute capability: 6.0)
+2018-08-20 14:59:47.472804: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:2 with 15133 MB memory) -> physical GPU (device: 2, name: Tesla P100-SXM2-16GB, pci bus id: 0006:01:00.0, compute capability: 6.0)
+2018-08-20 15:16:23.024492: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:2 with 15133 MB memory) -> physical GPU (device: 2, name: Tesla P100-SXM2-16GB, pci bus id: 0006:01:00.0, compute capability: 6.0)
+2018-08-20 14:57:47.418314: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:2 with 15133 MB memory) -> physical GPU (device: 2, name: Tesla P100-SXM2-16GB, pci bus id: 0006:01:00.0, compute capability: 6.0)
+2018-08-20 14:59:18.770817: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:2 with 15133 MB memory) -> physical GPU (device: 2, name: Tesla P100-SXM2-16GB, pci bus id: 0006:01:00.0, compute capability: 6.0)
+2018-08-20 14:59:47.259774: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:2 with 15133 MB memory) -> physical GPU (device: 2, name: Tesla P100-SXM2-16GB, pci bus id: 0006:01:00.0, compute capability: 6.0)
+2018-08-20 14:59:31.748008: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:2 with 15133 MB memory) -> physical GPU (device: 2, name: Tesla P100-SXM2-16GB, pci bus id: 0006:01:00.0, compute capability: 6.0)
+2018-08-20 14:58:12.760480: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:2 with 15133 MB memory) -> physical GPU (device: 2, name: Tesla P100-SXM2-16GB, pci bus id: 0006:01:00.0, compute capability: 6.0)
+2018-08-20 14:58:35.269890: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:2 with 15133 MB memory) -> physical GPU (device: 2, name: Tesla P100-SXM2-16GB, pci bus id: 0006:01:00.0, compute capability: 6.0)
+2018-08-20 14:59:54.069567: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:2 with 15133 MB memory) -> physical GPU (device: 2, name: Tesla P100-SXM2-16GB, pci bus id: 0006:01:00.0, compute capability: 6.0)
+2018-08-20 15:00:13.852972: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:2 with 15133 MB memory) -> physical GPU (device: 2, name: Tesla P100-SXM2-16GB, pci bus id: 0006:01:00.0, compute capability: 6.0)
+2018-08-20 14:59:37.732114: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:2 with 15133 MB memory) -> physical GPU (device: 2, name: Tesla P100-SXM2-16GB, pci bus id: 0006:01:00.0, compute capability: 6.0)
+2018-08-20 15:00:13.857572: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:2 with 15133 MB memory) -> physical GPU (device: 2, name: Tesla P100-SXM2-16GB, pci bus id: 0006:01:00.0, compute capability: 6.0)
+2018-08-20 14:59:05.364631: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:2 with 15133 MB memory) -> physical GPU (device: 2, name: Tesla P100-SXM2-16GB, pci bus id: 0006:01:00.0, compute capability: 6.0)
+2018-08-20 14:59:25.973465: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:3 with 15133 MB memory) -> physical GPU (device: 3, name: Tesla P100-SXM2-16GB, pci bus id: 0007:01:00.0, compute capability: 6.0)
+2018-08-20 14:59:55.168252: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:3 with 15133 MB memory) -> physical GPU (device: 3, name: Tesla P100-SXM2-16GB, pci bus id: 0007:01:00.0, compute capability: 6.0)
+2018-08-20 14:59:54.079542: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:3 with 15133 MB memory) -> physical GPU (device: 3, name: Tesla P100-SXM2-16GB, pci bus id: 0007:01:00.0, compute capability: 6.0)
+2018-08-20 15:00:13.923105: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:3 with 15133 MB memory) -> physical GPU (device: 3, name: Tesla P100-SXM2-16GB, pci bus id: 0007:01:00.0, compute capability: 6.0)
+2018-08-20 14:59:54.490168: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:3 with 15133 MB memory) -> physical GPU (device: 3, name: Tesla P100-SXM2-16GB, pci bus id: 0007:01:00.0, compute capability: 6.0)
+2018-08-20 15:00:13.927008: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:3 with 15133 MB memory) -> physical GPU (device: 3, name: Tesla P100-SXM2-16GB, pci bus id: 0007:01:00.0, compute capability: 6.0)
+2018-08-20 14:59:30.277370: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:3 with 15133 MB memory) -> physical GPU (device: 3, name: Tesla P100-SXM2-16GB, pci bus id: 0007:01:00.0, compute capability: 6.0)
+2018-08-20 15:00:13.929892: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:3 with 15133 MB memory) -> physical GPU (device: 3, name: Tesla P100-SXM2-16GB, pci bus id: 0007:01:00.0, compute capability: 6.0)
+2018-08-20 14:59:24.760841: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:3 with 15133 MB memory) -> physical GPU (device: 3, name: Tesla P100-SXM2-16GB, pci bus id: 0007:01:00.0, compute capability: 6.0)
+2018-08-20 14:59:41.754431: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:3 with 15133 MB memory) -> physical GPU (device: 3, name: Tesla P100-SXM2-16GB, pci bus id: 0007:01:00.0, compute capability: 6.0)
+2018-08-20 14:59:20.764093: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:3 with 15133 MB memory) -> physical GPU (device: 3, name: Tesla P100-SXM2-16GB, pci bus id: 0007:01:00.0, compute capability: 6.0)
+2018-08-20 14:59:47.572946: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:3 with 15133 MB memory) -> physical GPU (device: 3, name: Tesla P100-SXM2-16GB, pci bus id: 0007:01:00.0, compute capability: 6.0)
+2018-08-20 15:16:23.124352: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:3 with 15133 MB memory) -> physical GPU (device: 3, name: Tesla P100-SXM2-16GB, pci bus id: 0007:01:00.0, compute capability: 6.0)
+2018-08-20 14:57:47.518425: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:3 with 15133 MB memory) -> physical GPU (device: 3, name: Tesla P100-SXM2-16GB, pci bus id: 0007:01:00.0, compute capability: 6.0)
+2018-08-20 14:59:18.871024: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:3 with 15133 MB memory) -> physical GPU (device: 3, name: Tesla P100-SXM2-16GB, pci bus id: 0007:01:00.0, compute capability: 6.0)
+2018-08-20 14:59:47.359951: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:3 with 15133 MB memory) -> physical GPU (device: 3, name: Tesla P100-SXM2-16GB, pci bus id: 0007:01:00.0, compute capability: 6.0)
+2018-08-20 15:00:13.945245: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:3 with 15133 MB memory) -> physical GPU (device: 3, name: Tesla P100-SXM2-16GB, pci bus id: 0007:01:00.0, compute capability: 6.0)
+2018-08-20 14:59:31.847803: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:3 with 15133 MB memory) -> physical GPU (device: 3, name: Tesla P100-SXM2-16GB, pci bus id: 0007:01:00.0, compute capability: 6.0)
+2018-08-20 14:58:12.860769: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:3 with 15133 MB memory) -> physical GPU (device: 3, name: Tesla P100-SXM2-16GB, pci bus id: 0007:01:00.0, compute capability: 6.0)
+2018-08-20 14:58:35.369970: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:3 with 15133 MB memory) -> physical GPU (device: 3, name: Tesla P100-SXM2-16GB, pci bus id: 0007:01:00.0, compute capability: 6.0)
+2018-08-20 14:59:54.170049: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:3 with 15133 MB memory) -> physical GPU (device: 3, name: Tesla P100-SXM2-16GB, pci bus id: 0007:01:00.0, compute capability: 6.0)
+2018-08-20 15:00:13.952832: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:3 with 15133 MB memory) -> physical GPU (device: 3, name: Tesla P100-SXM2-16GB, pci bus id: 0007:01:00.0, compute capability: 6.0)
+2018-08-20 14:59:37.831762: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:3 with 15133 MB memory) -> physical GPU (device: 3, name: Tesla P100-SXM2-16GB, pci bus id: 0007:01:00.0, compute capability: 6.0)
+2018-08-20 15:00:13.957685: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:3 with 15133 MB memory) -> physical GPU (device: 3, name: Tesla P100-SXM2-16GB, pci bus id: 0007:01:00.0, compute capability: 6.0)
+2018-08-20 14:59:05.464807: I tensorflow/core/common_runtime/gpu/gpu_device.cc:993] Creating TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:3 with 15133 MB memory) -> physical GPU (device: 3, name: Tesla P100-SXM2-16GB, pci bus id: 0007:01:00.0, compute capability: 6.0)
+User defined signal 2
+Lost connection to pmix_server after reading 0/1344 bytes Success
+[summitdev-login1:100405] PMIX ERROR: UNPACK-PAST-END in file tool/pmix_tool.c at line 105
+Could not send js_detach request to pmix server

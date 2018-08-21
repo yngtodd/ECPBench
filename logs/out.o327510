@@ -1,0 +1,154 @@
+max_vocab: 4653
+max_vocab: 4653
+max_vocab: 4653
+max_vocab: 4653
+max_vocab: 4653
+max_vocab: 4653
+max_vocab: 4653
+max_vocab: 4653
+max_vocab: 4653
+max_vocab: 4653
+max_vocab: 4653
+max_vocab: 4653
+max_vocab: 4653
+max_vocab: 4653
+max_vocab: 4653
+max_vocab: 4653
+Iteration No: 1 started. Searching for the next optimal point.
+Iteration No: 1 ended. Search finished for the next optimal point.
+Time taken: 0.5618
+Function value obtained: 0.9366
+Current minimum: 0.9366
+Iteration No: 2 started. Searching for the next optimal point.
+Iteration No: 2 ended. Search finished for the next optimal point.
+Time taken: 61.0463
+Function value obtained: 0.9253
+Current minimum: 0.9253
+Iteration No: 3 started. Searching for the next optimal point.
+Iteration No: 3 ended. Search finished for the next optimal point.
+Time taken: 46.5011
+Function value obtained: 0.9599
+Current minimum: 0.9253
+Iteration No: 4 started. Searching for the next optimal point.
+Iteration No: 4 ended. Search finished for the next optimal point.
+Time taken: 46.6223
+Function value obtained: 0.9578
+Current minimum: 0.9253
+Iteration No: 5 started. Searching for the next optimal point.
+Iteration No: 5 ended. Search finished for the next optimal point.
+Time taken: 48.1864
+Function value obtained: 0.9258
+Current minimum: 0.9253
+Iteration No: 6 started. Searching for the next optimal point.
+Iteration No: 6 ended. Search finished for the next optimal point.
+Time taken: 48.5505
+Function value obtained: 0.9133
+Current minimum: 0.9133
+Iteration No: 7 started. Searching for the next optimal point.
+Iteration No: 7 ended. Search finished for the next optimal point.
+Time taken: 50.1671
+Function value obtained: 0.9520
+Current minimum: 0.9133
+Iteration No: 8 started. Searching for the next optimal point.
+Iteration No: 8 ended. Search finished for the next optimal point.
+Time taken: 47.7610
+Function value obtained: 0.9230
+Current minimum: 0.9133
+Iteration No: 9 started. Searching for the next optimal point.
+Iteration No: 9 ended. Search finished for the next optimal point.
+Time taken: 49.1819
+Function value obtained: 0.9519
+Current minimum: 0.9133
+Iteration No: 10 started. Searching for the next optimal point.
+Iteration No: 10 ended. Search finished for the next optimal point.
+Time taken: 47.1238
+Function value obtained: 0.9263
+Current minimum: 0.9133
+Iteration No: 11 started. Searching for the next optimal point.
+Iteration No: 11 ended. Search finished for the next optimal point.
+Time taken: 48.0979
+Function value obtained: 0.9325
+Current minimum: 0.9133
+Iteration No: 12 ended. Search finished for the next optimal point.
+Time taken: 96.8645
+Function value obtained: 0.9382
+Current minimum: 0.9133
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@summitdev-login1.ccs.ornl.gov>
+Subject: Job 327510: <ECPbench> in cluster <summitdev> Done
+
+Job <ECPbench> was submitted from host <summitdev-login1> by user <yngtodd> in cluster <summitdev> at Thu Aug  9 12:56:36 2018
+Job was executed on host(s) <1*summitdev-login1>, in queue <batch>, as user <yngtodd> in cluster <summitdev> at Thu Aug  9 13:18:30 2018
+                            <20*summitdev-r0c0n10>
+                            <20*summitdev-r0c0n13>
+                            <20*summitdev-r0c1n06>
+                            <20*summitdev-r0c1n08>
+                            <20*summitdev-r0c0n01>
+                            <20*summitdev-r0c0n03>
+                            <20*summitdev-r0c0n07>
+                            <20*summitdev-r0c0n08>
+                            <20*summitdev-r0c0n09>
+                            <20*summitdev-r0c2n10>
+                            <20*summitdev-r0c2n11>
+                            <20*summitdev-r0c2n12>
+                            <20*summitdev-r0c2n13>
+                            <20*summitdev-r0c2n16>
+                            <20*summitdev-r0c2n17>
+                            <20*summitdev-r0c2n18>
+</ccs/home/yngtodd> was used as the home directory.
+</lustre/atlas/proj-shared/csc249/yngtodd/bench/ECPBench> was used as the working directory.
+Started at Thu Aug  9 13:18:30 2018
+Terminated at Thu Aug  9 13:29:33 2018
+Results reported at Thu Aug  9 13:29:33 2018
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+#!/bin/bash
+#BSUB -P CSC249ADOA01 
+#BSUB -J ECPbench 
+#BSUB -o out.o%J
+#BSUB -e err.e%J
+#BSUB -W 02:00
+#BSUB -nnodes 16 
+
+# SummitDev Module
+SUMMITEDEVMODULEDIR=/lustre/atlas/proj-shared/csc264/modules
+[[ -d $SUMMITEDEVMODULEDIR/modulefiles ]] && module use $SUMMITEDEVMODULEDIR/modulefiles
+
+module purge
+module load hyperspace 
+
+export PAMI_IBV_ENABLE_OOO_AR=0
+
+cd /lustre/atlas/proj-shared/csc249/yngtodd/bench/ECPBench
+
+jsrun -n 16 -a 1 -g 4 python hyperdrive.py --results_dir results 
+
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   1.90 sec.
+    Max Memory :                                 62 MB
+    Average Memory :                             61.33 MB
+    Total Requested Memory :                     -
+    Delta Memory :                               -
+    Max Swap :                                   1523 MB
+    Max Processes :                              6
+    Max Threads :                                30
+    Run time :                                   651 sec.
+    Turnaround time :                            1977 sec.
+
+The output (if any) is above this job summary.
+
+
+
+PS:
+
+Read file <err.e327510> for stderr output of this job.
+
